@@ -18,7 +18,7 @@ A RESTful inventory management system built with Go that allows you to track and
 
 1. Clone the repository (or download the source code):
    ```
-   git clone [repository-url]
+   git clone [[repository-url]](https://github.com/ahmd7/CRUD-inventory-by-go.git)
    cd myInventory
    ```
 
